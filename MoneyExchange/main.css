@@ -1,0 +1,44 @@
+body {
+    
+    background-color: #A288A6;
+}
+
+.card {
+    border: none;
+}
+
+.card-body {
+    background-color: #68576A;
+}
+
+.card-header {
+    background-color:#BB9BB0;
+}
+
+h2 {
+    color: #297373;
+}
+
+.contenedorDivisas {
+    column-count: 2;
+    justify-content: center;
+  }
+
+.listaCotizacion {
+    column-count: 2;
+    justify-content: center;
+}
+
+
+
+
+  .container {
+
+    display: flex;
+    justify-content: center;
+  }
+
+li {
+    list-style-type:none;
+}
+
