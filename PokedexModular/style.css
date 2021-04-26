@@ -1,5 +1,5 @@
 body {
-  background-color: #ace4aa;
+  background-color: #404040;
 }
 
 header {
@@ -20,7 +20,7 @@ header {
 }
 
 .divPokemon {
-  font-family: "Baloo Da 2", cursive;
+  font-family: 'Baloo Da 2', cursive;
   margin: 2px;
   padding: 2px;
   background-color: azure;
@@ -39,6 +39,7 @@ header {
 .divPokemonSpecs {
   display: grid;
   grid-template-columns: auto;
+  border-radius: 0px 0px 15px 15px;
 }
 
 .pokemonName {
